@@ -1,2 +1,2 @@
-# cryptomaze
+# PsyPhase
 :)
